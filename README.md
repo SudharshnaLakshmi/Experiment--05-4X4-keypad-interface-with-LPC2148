@@ -293,6 +293,9 @@ void LCD_init()
 ### After
 ![out](2.png)
 
+### Circuit Diagram
+![out](3.png)
+
 ## Result
 Interfacing a keypad 4x4 is interfaced  with LPC2148.
 
